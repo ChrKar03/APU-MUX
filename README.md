@@ -127,5 +127,3 @@ Note: The system supports 8 inputs mapped to 4 high-resolution outputs.
 Author: Christos Karagiannis
 
 Institution: University of Thessaly, Department of Electrical and Computer Engineering.
-
-For detailed code implementations and register settings, please refer to Appendix C of the documentation provided in this repo.
