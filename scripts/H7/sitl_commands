@@ -1,0 +1,5 @@
+mode GUIDED
+arm throttle
+takeoff 5
+mode LAND
+disarm throttle
