@@ -106,6 +106,8 @@ Note: The system supports 8 inputs mapped to 4 high-resolution outputs.
 
     scripts/: Contains the dma_script.py, nvic_script.py for the G4 and stm32bridge.py for testing H7 and HITL.
 
+    board/: Contains a custom pcb implementation.
+
 ## ⚙️ Prerequisites
 
     IDE: STM32CubeIDE.
