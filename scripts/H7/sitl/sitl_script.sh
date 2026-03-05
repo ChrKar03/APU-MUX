@@ -1,1 +1,1 @@
-~/Desktop/HITL/ardupilot/Tools/autotest/sim_vehicle.py -v ArduCopter -f gazebo-iris --map --console
+~/Desktop/HITL/ardupilot/Tools/autotest/sim_vehicle.py -v ArduCopter -f gazebo-iris --console

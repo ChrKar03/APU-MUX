@@ -1,0 +1,1 @@
+~/Desktop/HITL/ardupilot/Tools/autotest/sim_vehicle.py -v ArduCopter -f gazebo-iris --model gazebo-iris -I1 --out udp:127.0.0.1:14550
