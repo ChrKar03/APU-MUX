@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS629203QDRLRQ1
+PartCategory=Integrated Circuit
+PackageCategory=SO Transistor Flat Lead
+PinCount=8
+Version=1.1
+Released=2023-06-29 10:27:58
+Downloaded=2026-02-18 23:04:51
+3D=Y

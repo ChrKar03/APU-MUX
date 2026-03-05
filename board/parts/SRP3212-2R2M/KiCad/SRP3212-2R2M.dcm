@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP3212-2R2M
+D Ind,3.2x2.5x1mm,2.2uH?20%,4A,shd
+K
+F https://www.bourns.com/pdfs/CVH.pdf
+$ENDCMP
+#
+#End Doc Library

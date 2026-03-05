@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLASG168BB5475KTNA01
+D 4.7 F +/-10% 35V Ceramic Capacitor X5R 0603 (1608 Metric)
+K
+F https://ds.yuden.co.jp/TYCOMPAS/ap/specSheet?pn=MLASG168BB5475KTNA01
+$ENDCMP
+#
+#End Doc Library

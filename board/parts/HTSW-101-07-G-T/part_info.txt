@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=HTSW-101-07-G-T
+PartCategory=Connector
+PackageCategory=Header, Vertical
+PinCount=3
+Version=1.1
+Released=2020-06-05 16:16:02
+Downloaded=2026-02-27 19:11:31
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=TMS-102-21-G-S
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=1.1
+Released=2020-06-17 12:46:09
+Downloaded=2026-02-19 10:49:08
+3D=Y

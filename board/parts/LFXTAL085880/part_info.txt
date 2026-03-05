@@ -1,0 +1,9 @@
+Manufacturer=IQD
+PartNumber=LFXTAL085880
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2025-12-04 09:49:53
+Downloaded=2026-02-19 01:58:43
+3D=Y

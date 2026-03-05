@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFXTAL085880
+D 25 MHz +/-20ppm Crystal 8pF 50 Ohms 4-SMD, No Lead
+K
+F https://portal.iqdfrequencyproducts.com/products/details/cfpx-180.pdf
+$ENDCMP
+#
+#End Doc Library

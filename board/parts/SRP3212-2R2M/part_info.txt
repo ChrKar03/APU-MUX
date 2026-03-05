@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRP3212-2R2M
+PartCategory=Inductor
+PackageCategory=Inductors Chip
+PinCount=2
+Version=2.1
+Released=2022-04-22 09:53:08
+Downloaded=2026-02-18 23:19:47
+3D=Y

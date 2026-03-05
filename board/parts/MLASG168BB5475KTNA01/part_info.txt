@@ -1,0 +1,9 @@
+Manufacturer=TAIYO YUDEN
+PartNumber=MLASG168BB5475KTNA01
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2025-03-10 02:26:33
+Downloaded=2026-02-18 22:59:48
+3D=Y

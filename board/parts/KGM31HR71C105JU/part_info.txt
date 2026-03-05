@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=KGM31HR71C105JU
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2023-11-19 12:38:45
+Downloaded=2026-02-19 00:36:56
+3D=Y

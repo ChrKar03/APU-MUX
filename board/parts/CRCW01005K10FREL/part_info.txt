@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW01005K10FREL
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2020-12-30 10:57:01
+Downloaded=2026-02-19 03:15:50
+3D=Y

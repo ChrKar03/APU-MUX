@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=BLM21AG601SN1D
+PartCategory=Filter
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2019-06-23 10:22:39
+Downloaded=2026-02-18 23:53:35
+3D=Y

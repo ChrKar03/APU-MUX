@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BM06B-GHS-GB-TBT_LF__SN_
+#/20307181/1901076/2.50/8/3/Connector
+DEF BM06B-GHS-GB-TBT_LF__SN_ J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "BM06B-GHS-GB-TBT_LF__SN_" 750 200 50 H V L CNN
+F2 "BM06BGHSGBTBTLFSN" 750 100 50 H I L CNN
+F3 "https://www.jst.com/wp-content/uploads/2021/08/eGH-new.pdf" 750 0 50 H I L CNN
+F4 "Headers & Wire Housings GH HEADER (SMT/TOP TYPE)" 750 -100 50 H I L CNN "Description"
+F5 "4.05" 750 -200 50 H I L CNN "Height"
+F6 "306-6BGHSGBTBTLN" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/JST-Commercial/BM06B-GHS-GB-TBTLFSN?qs=3vio67wFuYpcLb80dTYgFg%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "JST (JAPAN SOLDERLESS TERMINALS)" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "BM06B-GHS-GB-TBT(LF)(SN)" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 900 -500 200 L 50 50 0 0 P
+X 2 2 900 -400 200 L 50 50 0 0 P
+X 3 3 900 -300 200 L 50 50 0 0 P
+X 4 4 900 -200 200 L 50 50 0 0 P
+X 5 5 900 -100 200 L 50 50 0 0 P
+X 6 6 900 0 200 L 50 50 0 0 P
+X MP1 7 0 -100 200 R 50 50 0 0 P
+X MP2 8 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
