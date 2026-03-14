@@ -48,8 +48,6 @@ class DualSITLHardwareBridge:
         self.ser_read = None
         self.ser_write = None
 
-        # State to hold the 8 uint16 values for the F4 board
-        # Indices 0-3 for SITL1, 4-7 for SITL2
         self.sitl_outputs = [1000] * 8 
         self.sitl_lock = threading.Lock()
 

@@ -1,0 +1,15 @@
+==================================================
+AUTOMATED HITL LATENCY BENCHMARK (10000 Iters)
+==================================================
+
+[INFO] Iteration 10000/10000 | RTT: 76.03 ms | Read: (1498, 1498, 1498, 1498)   
+
+==================================================
+HITL PROPAGATION LATENCY STATISTICS
+==================================================
+Total Valid Samples : 10000
+Minimum RTT         : 54.84 ms
+Maximum RTT         : 115.18 ms
+Average RTT         : 69.29 ms
+Standard Deviation  : 12.18 ms
+==================================================

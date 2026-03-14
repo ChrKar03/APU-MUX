@@ -1,0 +1,1 @@
+~/Desktop/HITL/ardupilot/Tools/autotest/sim_vehicle.py -v ArduCopter -f gazebo-iris --model gazebo-iris -I1 --out udp:127.0.0.1:14550 --sysid 1 --custom-location=-35.363261,149.165230,584.0,0.0

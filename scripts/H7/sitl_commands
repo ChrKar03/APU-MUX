@@ -1,5 +1,25 @@
-mode GUIDED
-arm throttle
-takeoff 5
-mode LAND
-disarm throttle
+commands:
+-mode GUIDED
+-arm throttle
+-takeoff 5
+-mode LAND
+-disarm throttle
+
+parameters:
+-Gyroscope Noise:               param set SIM_GYR1_RND 0
+								param set SIM_GYR2_RND 0
+								param set SIM_GYR3_RND 0
+
+-Accelerometer Noise:           param set SIM_ACC1_RND 0
+								param set SIM_ACC2_RND 0
+								param set SIM_ACC3_RND 0
+
+-Barometer Noise:               param set SIM_BARO_RND 0
+
+-Magnetometer (Compass) Noise:  param set SIM_MAG1_RND 0
+								param set SIM_MAG2_RND 0
+
+-GPS Noise:                     param set SIM_GPS_NOISE 0
+
+-Wind: 							param set SIM_WIND_SPD 0
+								param set SIM_WIND_TURB 0
