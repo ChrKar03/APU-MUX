@@ -25,4 +25,6 @@
   (lib (name "LTST-C190KGKT")(type "KiCad")(uri "/home/chrisos/Desktop/apu-mux/parts/LTST-C190KGKT/KiCad")(options "")(descr ""))
   (lib (name "BM06B-GHS-GB-TBT_LF__SN_")(type "KiCad")(uri "/home/chrisos/Desktop/apu-mux/parts/BM06B-GHS-GB-TBT_LF__SN_/KiCad")(options "")(descr ""))
   (lib (name "HTSW-101-07-G-T")(type "KiCad")(uri "/home/chrisos/Desktop/apu-mux/parts/HTSW-101-07-G-T/KiCad")(options "")(descr ""))
+  (lib (name "205957-0671")(type "KiCad")(uri "/home/chrisos/Desktop/APU-MUX/board/parts/205957-0671/KiCad")(options "")(descr ""))
+  (lib (name "GRM1555C1H8R0DA01D")(type "KiCad")(uri "/home/chrisos/Desktop/APU-MUX/board/parts/GRM1555C1H8R0DA01D/KiCad")(options "")(descr ""))
 )
