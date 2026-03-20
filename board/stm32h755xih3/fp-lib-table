@@ -29,4 +29,6 @@
   (lib (name "53047-0610")(type "KiCad")(uri "/home/chris/Desktop/APU-MUX/board/parts/53047-0610.pretty")(options "")(descr ""))
   (lib (name "12065C225JAT2A")(type "KiCad")(uri "/home/chris/Desktop/APU-MUX/board/parts/12065C225JAT2A.pretty")(options "")(descr ""))
   (lib (name "06035C3R9CAT2A")(type "KiCad")(uri "/home/chris/Desktop/APU-MUX/board/parts/06035C3R9CAT2A.pretty")(options "")(descr ""))
+  (lib (name "0603YC225MAT2A")(type "KiCad")(uri "/home/chris/Desktop/APU-MUX/board/parts/0603YC225MAT2A.pretty")(options "")(descr ""))
+  (lib (name "830059082")(type "KiCad")(uri "/home/chris/Desktop/APU-MUX/board/parts/830059082.pretty")(options "")(descr ""))
 )
