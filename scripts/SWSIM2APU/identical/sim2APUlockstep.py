@@ -115,6 +115,9 @@ class DualSITLBridge:
 
         while self.running:
             try:
+                ##### HERE TIME END
+                sw_start_time = time.perf_counter()
+
                 # 1. BARRIER: Wait for SITL 1's physics frame
                 pkt1, addr1 = self.sock_sitl1_in.recvfrom(4096)
                 
@@ -131,8 +134,6 @@ class DualSITLBridge:
                 # 4. Forward active SITL's packet to Gazebo
                 active_pkt = pkt1 if self.use_primary_sitl else pkt2
                 
-                # --- START PROPAGATION TIMER ---
-                sw_start_time = time.perf_counter()
                 
                 self.sock_out.sendto(active_pkt, (GAZEBO_TARGET_IP, GAZEBO_TARGET_PORT))
 
@@ -142,6 +143,9 @@ class DualSITLBridge:
                 # --- STOP PROPAGATION TIMER ---
                 sw_end_time = time.perf_counter()
                 sw_latency_sum += (sw_end_time - sw_start_time)
+
+
+                ##### HERE TIME START
 
                 # 6. Send exact Gazebo sensor data back to both SITLs back-to-back
                 self.sock_out.sendto(gazebo_data, SITL1_PHYSICS_IN)

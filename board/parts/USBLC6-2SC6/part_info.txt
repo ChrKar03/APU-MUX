@@ -1,9 +1,0 @@
-Manufacturer=STMicroelectronics
-PartNumber=USBLC6-2SC6
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (6-Pin)
-PinCount=6
-Version=6.1
-Released=2020-12-29 06:15:58
-Downloaded=2026-02-19 03:19:23
-3D=Y

@@ -1,9 +1,0 @@
-Manufacturer=Murata Electronics
-PartNumber=GRM1885C1H221JA01D
-PartCategory=Capacitor
-PackageCategory=Capacitor Chip Non-polarised
-PinCount=2
-Version=3.1
-Released=2023-03-07 08:45:04
-Downloaded=2026-02-25 21:03:39
-3D=Y

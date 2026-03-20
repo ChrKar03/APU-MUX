@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TMS-102-21-G-S
-D 2 Position, Single-Row .050&quot; x .100&quot; Micro Terminal Strip
-K
-F http://suddendocs.samtec.com/prints/tms-1xx-xx-xx-x-xx-xxx-mkt.pdf
-$ENDCMP
-#
-#End Doc Library

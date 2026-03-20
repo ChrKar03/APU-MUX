@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP GRM1555C1H8R0DA01D
-D Murata 0402 GRM 8pF Ceramic Multilayer Capacitor, 50 V dc, +125C, C0G Dielectric, +/-0.5pF
-K
-F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM1555C1H8R0DA01-01A.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-Manufacturer=Lite-On
-PartNumber=LTST-C190KRKT
-PartCategory=LED
-PackageCategory=LEDs Chip
-PinCount=2
-Version=2.1
-Released=2017-11-14 11:36:32
-Downloaded=2026-02-27 04:35:23
-3D=Y

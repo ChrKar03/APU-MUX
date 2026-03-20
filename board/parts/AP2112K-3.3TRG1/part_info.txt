@@ -1,9 +1,0 @@
-Manufacturer=Diodes Incorporated
-PartNumber=AP2112K-3.3TRG1
-PartCategory=Integrated Circuit
-PackageCategory=SOT23 (5-Pin)
-PinCount=5
-Version=4.1
-Released=2016-06-27 13:18:07
-Downloaded=2026-02-19 01:30:40
-3D=Y

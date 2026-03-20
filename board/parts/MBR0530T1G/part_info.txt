@@ -1,9 +1,0 @@
-Manufacturer=onsemi
-PartNumber=MBR0530T1G
-PartCategory=Diode
-PackageCategory=Small Outline Diode
-PinCount=2
-Version=3.2
-Released=2015-10-05 09:04:43
-Downloaded=2026-02-19 01:39:09
-3D=Y

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MBR0530T1G
-D Guardring for Stress Protection; Low Forward Voltage; 125 C Operating Junction Temperature; Epoxy Meets UL94, VO at 1/8"; Package Designed for Optimal Automated Board Assembly Mechanical Characteristics:; Reel Options: MBR0530T1 = 3,000 per 7" reel/8 mm tape MBR0530T3 = 10,000 per 13" reel/8 mm tape; Device Marking: B3; Polarity Designator: Cathode Band; Weight: 11.7 mg (approximately); Case: Epoxy, Molded; Finish: All External Surfaces Corrosion Resistant and Terminal Leads are Readily Solderable; Lead and
-K
-F https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-Manufacturer=Molex
-PartNumber=205957-0671
-PartCategory=Connector
-PackageCategory=Other
-PinCount=8
-Version=1.5
-Released=2020-12-04 09:54:55
-Downloaded=2026-03-18 11:27:12
-3D=Y

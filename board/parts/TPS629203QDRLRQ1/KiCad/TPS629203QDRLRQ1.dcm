@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TPS629203QDRLRQ1
-D Switching Voltage Regulators Automotive 3-V to 17-V, 0.3-A, low-IQ, synchronous buck converter in SOT-583 package
-K
-F https://www.ti.com/lit/ds/symlink/tps629203-q1.pdf?ts=1688028117447&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS629203-Q1%252Fpart-details%252FTPS629203QDRLRQ1
-$ENDCMP
-#
-#End Doc Library

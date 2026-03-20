@@ -1,4 +1,4 @@
-27336118202293457
+27339711214876774
 06035C3R9CAT2A
 CAPC1608X90N
 0603-1
@@ -13,6 +13,13 @@ Capacitor
 0
 2
 2
+53047-0610
+530470610
+530470610
+Connector
+0
+6
+6
 205957-0671
 2059570671
 205957-0671-2
@@ -2859,6 +2866,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+C0603X105J4RACTU
+C0603
+C0603
+Capacitor
 0
 2
 2
