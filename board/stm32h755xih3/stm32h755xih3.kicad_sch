@@ -8,7 +8,6 @@
 		(title "APU-MUX")
 		(date "2026-03-12")
 		(rev "v1")
-		(company "SAVILO-AKATE PRODUCTIONS")
 	)
 	(lib_symbols
 		(symbol "0603YC225MAT2A:0603YC225MAT2A"
